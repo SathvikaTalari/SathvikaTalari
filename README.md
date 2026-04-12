@@ -34,7 +34,7 @@
 `MySQL` `SQLite`
 
 ### 🧰 Tools & Platforms
-`Git` `GitHub` `VS Code` `Vercel` `Postman`
+`Git` `GitHub` `VS Code` `Vercel`
 
 ### 🤖 AI / ML
 `Generative AI APIs` `Prompt Engineering`
