@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Student (CGPA: **9.43**)
+- 🎓 B.Tech Computer Science Student (CGPA: **9.5**)
 - 💻 Passionate about **Full Stack Development & AI**
 - 🚀 Built real-world **web applications & learning platforms**
 - 🧠 Strong in **problem-solving, debugging & UI validation**
