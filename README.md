@@ -18,7 +18,7 @@
 - 🎓 Pursuing B.E. in Computer Science at Stanley College of Engineering and Technology.
 - 📊 Maintaining a **9.5 CGPA**.
 - 💻 Software developer focused on building full-stack applications and AI-powered solutions.
-- 🏢 Former Web Development Intern at **Alonzo AI**.
+- 🏢 Former Full Stack Development Intern at **Alonzo AI**.
 - 🐍 Former Python Development Intern at **VaultofCodes**.
 - 🌍 Open-source contributor through **GirlScript Summer of Code (GSSoC)**.
 - 🏆 3rd Place – SmartBridge Generative AI Hackathon.
@@ -68,6 +68,7 @@
 - Developed a Flask-based Hotel Management System with booking, invoicing, and role-based dashboards.
 
 ### Entrepreneurship & Product Development Training | WE Hub
+*February 2025 – April 2025*
 - Participated in entrepreneurship training at WE Hub, Hyderabad.
 - Gained exposure to product development, idea validation, and transforming ideas into practical solutions.
 - Developed an understanding of innovation and early-stage product development.
