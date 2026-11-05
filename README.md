@@ -89,15 +89,13 @@
 
 ### 2. LearnSphere – AI-Powered Learning Platform
 
-Tech Stack: Python, Flask, JavaScript, Generative AI APIs
+**Tech:** Python, Flask, JavaScript, Generative AI APIs
 
-Developed an AI-powered learning platform with courses, lessons, quizzes, and progress tracking.
+- Developed an AI-powered learning platform with courses, lessons, quizzes, and progress tracking.
+- Integrated Generative AI capabilities for personalized explanations and coding assistance.
+- Implemented authentication, educator dashboards, and learning management features.
 
-Integrated Generative AI capabilities for personalized explanations and coding assistance.
-
-Implemented authentication, educator dashboards, and learning management features.
-
-https://learn-sphere-platform.vercel.app/login
+  https://learn-sphere-platform.vercel.app/login
 
 ### 3. VidyaQuest – Gamified STEM Learning Platform
 
@@ -108,7 +106,7 @@ https://learn-sphere-platform.vercel.app/login
 - Designed multilingual learning support for 8 Indian languages.
 - Integrated PWA capabilities, offline storage, and synchronization.
   
-https://vidyaquest-stem.onrender.com/
+  https://vidyaquest-stem.onrender.com/
 
 ### 4. Automata Simulator
 
